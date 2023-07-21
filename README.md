@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yassine
 - 👀 I’m interested in spigot
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning weeb developement
+- 📫 How to reach me you can go in discord : Chatore 
 
 <!---
 Chatore/Chatore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
